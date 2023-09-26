@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ru.bmstu.kibamba.distributedsystemlw01.DistributedSystemLw01
+ Application
+

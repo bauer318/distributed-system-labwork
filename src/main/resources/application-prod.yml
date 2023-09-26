@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://dpg-ck8vjafsasqs739u2a20-a.oregon-postgres.render.com/person_db_1jrp
+    username: bauer
+    password: b61L8mCxMKeMNIxcHKmDonMUW1yDhqQR
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
